@@ -1,6 +1,6 @@
 namespace DnDLoot.Domain
 {
-    class TreasureCalculator
+    public class TreasureCalculator
     {
         private Die d100 = new Die(100);
         private ITreasureMap treasure { get; set; }
