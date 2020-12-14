@@ -1,4 +1,4 @@
-namespace dndloot
+namespace DnDLoot
 {
     using CommandLine;
 

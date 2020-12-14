@@ -1,4 +1,4 @@
-namespace dndloot.Domain
+namespace DnDLoot.Domain
 {
     class TreasureCalculator
     {

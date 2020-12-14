@@ -1,9 +1,9 @@
-﻿namespace dndloot
+﻿namespace DnDLoot
 {
     using CommandLine;
     using System;
 
-    using dndloot.Domain;
+    using DnDLoot.Domain;
 
     class Program
     {
