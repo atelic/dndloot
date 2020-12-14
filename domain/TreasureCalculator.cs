@@ -3,7 +3,7 @@ namespace DnDLoot.Domain
     public class TreasureCalculator
     {
         private Die d100 = new Die(100);
-        private ITreasureMap treasure { get; set; }
+        private ITreasure treasure { get; set; }
 
         public TreasureCalculator(bool isHoard)
         {

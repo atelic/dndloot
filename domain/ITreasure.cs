@@ -1,6 +1,6 @@
 namespace DnDLoot.Domain
 {
-    public interface ITreasureMap
+    public interface ITreasure
     {
         string GetSmall(int roll);
         string GetMedium(int roll);

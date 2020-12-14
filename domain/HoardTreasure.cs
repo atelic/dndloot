@@ -1,6 +1,6 @@
 namespace DnDLoot.Domain
 {
-    class HoardTreasure : ITreasureMap
+    class HoardTreasure : ITreasure
     {
         private Die d6 = new Die(6);
 
